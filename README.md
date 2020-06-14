@@ -1,4 +1,4 @@
-# Calculator-
+# Python Calculator-
 
 This calculator is user friendly and can perform any calculation in your own way.
 
